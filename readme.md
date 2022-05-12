@@ -27,7 +27,7 @@ El proposito de este proyecto es tomar información de cambios de AFORE para det
 
 ## Project Description
 La fuente de datos que se utilizara es un csv el cual cuenta con 
-|DATE|ClientID|MOVEMENT|BALANCE_IN|TRANSFEROR|BALANCE_OUT|RECEPIENT|AGENT| ID|STATUS|CHANNEL|aux|IN|OUT|NUM_MOVEMENTS|
+|DATE   |ClientID   |MOVEMENT   |BALANCE_IN |TRANSFEROR |BALANCE_OUT    |RECEPIENT  |AGENT  | ID    |STATUS |CHANNEL    |aux    |IN |OUT    |NUM_MOVEMENTS  |
 
 
 #### Other Members:
